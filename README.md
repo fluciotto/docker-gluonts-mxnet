@@ -1,3 +1,3 @@
 # docker-machine-learning
 
-Dockerfiles for gluonts / mxnet / tensorflow / scikit-learn CPU & GPU environments
+Dockerfiles for gluonts / keras / lightgbm / mxnet / scikit-learn / tensorflow / xgboost CPU & GPU environments
